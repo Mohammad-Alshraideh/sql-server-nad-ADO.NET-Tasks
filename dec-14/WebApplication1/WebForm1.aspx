@@ -62,6 +62,14 @@
                             </td>
                                                                    <td>
                                 <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Upload" Height="38px" />
+
+                            </td>
+                                                                      <td>
+                                
+
+                                                                          <asp:Label ID="Label7" runat="server"></asp:Label>
+                                
+
                             </td>
                         </tr>  
             </table>
